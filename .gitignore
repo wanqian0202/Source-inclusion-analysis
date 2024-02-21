@@ -1,0 +1,7 @@
+# Ignore specific files
+test_result.csv
+test_source_file.txt
+
+# Ignore a whole folder and everything in it
+test_data/
+__pycache__/
